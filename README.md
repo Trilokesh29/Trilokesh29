@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Trilokesh29
-- 👀 I’m interested in C++, C, Python and Rust programming
-- 🌱 I’m currently learning Rust
+- 👋 Hi, I’m Trilokesh Pradhan.
+- 👀 I’m interested in C++, C, Python and Rust programming.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on any kind of opensoure project related to these languages.
 - 📫 You can reach me on trilokeshpradhan@gmail.com
 
